@@ -1,0 +1,9 @@
+{
+    "courses" : [
+        {
+            "id": 1,
+            "name": "KHÓA HỌC ANH NGỮ CHUYÊN NGÀNH",
+            "description": "Bao gồm nhiều khóa học ngắn hạn tập trung vào những ngành nghề hoặc lĩnh vực chuyên biệt. Học viên được học nhiều từ vựng chuyên ngành và các kỹ năng đặc biệt để giúp học viên giao tiếp tự tin và hiệu quả."
+        }
+    ]
+}
